@@ -1,0 +1,258 @@
+
+=========  Welcome To WebScraping of indiaeducation.net site  ========
+
+Sort Colleges Based on Options:
+===============================
+
+ 1. Top 20 colleges 
+ 2. Colleges in Alphabetical order 
+ 3. Colleges Based on Student to Faculity Ratio 
+ 4. Colleges Based on Avg Retention Ration 
+ 5. Colleges Based on Tution Cost Range ("$"(Low)-"$$$$"(High) 
+ 6. Colleges Based on Placement Services
+ 7. Exit
+
+================================================
+
+Enter Option from 1 to 7   :  3
+
+================================================
+College Name                 : University of Central Florida
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 85
+Programs Available           : 197
+Student Faculity Ration      : 30
+Facilities in College        : Four-year, large, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Florida International University
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 82.5
+Programs Available           : 221
+Student Faculity Ration      : 27
+Facilities in College        : Four-year, large, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Florida State University
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 86.5
+Programs Available           : 304
+Student Faculity Ration      : 22
+Facilities in College        : Four-year, large, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : University of South Florida-Main Campus
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 83.5
+Programs Available           : 228
+Student Faculity Ration      : 22
+Facilities in College        : Four-year, large, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Sam Houston State University
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 70.5
+Programs Available           : 114
+Student Faculity Ration      : 21
+Facilities in College        : Four-year, large, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Oklahoma State University-Main Campus
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 68.5
+Programs Available           : 230
+Student Faculity Ration      : 20
+Facilities in College        : Four-year, large, primarily residential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : University of Florida
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 88.5
+Programs Available           : 330
+Student Faculity Ration      : 19
+Facilities in College        : Four-year, large, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : East Carolina University
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 78.5
+Programs Available           : 206
+Student Faculity Ration      : 19
+Facilities in College        : Four-year, large, primarily residential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : University of Alabama at Birmingham
+Tution Cost in Range($-$$$$) : $$
+Avg Retention Rate           : 64
+Programs Available           : 149
+Student Faculity Ration      : 19
+Facilities in College        : Four-year, large, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : University of Oklahoma-Norman Campus
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 86.5
+Programs Available           : 255
+Student Faculity Ration      : 18
+Facilities in College        : Four-year, large, primarily residential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Fort Hays State University
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 60.5
+Programs Available           : 75
+Student Faculity Ration      : 18
+Facilities in College        : Four-year, medium, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Rasmussen College-Minnesota
+Tution Cost in Range($-$$$$) : $$
+Avg Retention Rate           : 100
+Programs Available           : 74
+Student Faculity Ration      : 16
+Facilities in College        : Four-year, medium, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : No
+================================================
+
+
+================================================
+College Name                 : Northwestern State University of Louisiana
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 65
+Programs Available           : 82
+Student Faculity Ration      : 16
+Facilities in College        : Four-year, medium, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Southwestern Assemblies of God University
+Tution Cost in Range($-$$$$) : $$$
+Avg Retention Rate           : 86
+Programs Available           : 42
+Student Faculity Ration      : 16
+Facilities in College        : Four-year, small, primarily residential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Apex School of Theology
+Tution Cost in Range($-$$$$) : $
+Avg Retention Rate           : 87.5
+Programs Available           : 9
+Student Faculity Ration      : 14
+Facilities in College        : Four-year, very small, primarily nonresidential
+Placement Services           : No
+On Campus Housing            : No
+================================================
+
+
+================================================
+College Name                 : University of Mary
+Tution Cost in Range($-$$$$) : $$$
+Avg Retention Rate           : 75
+Programs Available           : 86
+Student Faculity Ration      : 14
+Facilities in College        : Four-year, small, primarily residential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Herzing University-Brookfield
+Tution Cost in Range($-$$$$) : $$$
+Avg Retention Rate           : 100
+Programs Available           : 44
+Student Faculity Ration      : 13
+Facilities in College        : Four-year, very small, primarily nonresidential
+Placement Services           : Yes
+On Campus Housing            : No
+================================================
+
+
+================================================
+College Name                 : University of Illinois at Springfield
+Tution Cost in Range($-$$$$) : $$
+Avg Retention Rate           : 59
+Programs Available           : 60
+Student Faculity Ration      : 13
+Facilities in College        : Four-year, medium, primarily residential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Regis University
+Tution Cost in Range($-$$$$) : $$$$
+Avg Retention Rate           : 80
+Programs Available           : 108
+Student Faculity Ration      : 13
+Facilities in College        : Four-year, medium, primarily residential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+
+================================================
+College Name                 : Creighton University
+Tution Cost in Range($-$$$$) : $$$$
+Avg Retention Rate           : 89
+Programs Available           : 146
+Student Faculity Ration      : 11
+Facilities in College        : Four-year, medium, highly residential
+Placement Services           : Yes
+On Campus Housing            : Yes
+================================================
+
+If you Wish To Close Enter Y/y or Press any key
