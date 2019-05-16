@@ -1,6 +1,6 @@
 # WebScraping
 
-colleges_web_scrap_main.py is the file which has source code.
+<strong>colleges_web_scrap_main.py</strong> is the file which has source code.
 
 we have added 6 sorting techniques to the colleges 
 
